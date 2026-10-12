@@ -6,7 +6,7 @@ A practical reference entry for product and engineering: the tech-interview-hand
 
 ## Images
 
-[![tech-interview-handbook](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![tech-interview-handbook](images/preview.png)](https://github.com/Swift-Tech-Co/tech-interview-handbook)
 
 ## What is this?
 
@@ -39,7 +39,7 @@ Anybody who wants to land a job at a tech company but is new to technical interv
 
 <div align="center">
   <h3>💡 Stop grinding mindlessly! Study coding question patterns efficiently with
-    <a href="https://www.swifttechco.com">Grokking the Coding Interview</a> by Design Gurus 💡
+    <a href="https://github.com/Swift-Tech-Co/tech-interview-handbook">Grokking the Coding Interview</a> by Design Gurus 💡
   </h3>
 </div>
 
@@ -76,7 +76,7 @@ A Docusaurus website has been created to provide a better reading experience. Ch
 ---
 
 <div align="center">
-  <h3>💡 Stop the grind and study with a plan! Developed by Google engineers, <a href="https://www.swifttechco.com">AlgoMonster</a> is the fastest way to get a software engineering job. <a href="https://www.swifttechco.com">Join today for a 70% discount!</a> 💡</h3>
+  <h3>💡 Stop the grind and study with a plan! Developed by Google engineers, <a href="https://github.com/Swift-Tech-Co/tech-interview-handbook">AlgoMonster</a> is the fastest way to get a software engineering job. <a href="https://github.com/Swift-Tech-Co/tech-interview-handbook">Join today for a 70% discount!</a> 💡</h3>
 </div>
 
 ---
@@ -91,14 +91,13 @@ There are no formal contributing guidelines at the moment as things are still in
 
 ### Contributors
 
-This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)]. <a href="https://www.swifttechco.com"></a>
+This project exists thanks to all the people who contributed. [[Contribute](CONTRIBUTING.md)]. <a href="https://github.com/Swift-Tech-Co/tech-interview-handbook"></a>
 
 ### Backers
 
 Thank you to all our backers! 🙏 [Become a backer]
 
-<a href="https://www.swifttechco.com" target="_blank"></a>
-
+<a href="https://github.com/Swift-Tech-Co/tech-interview-handbook" target="_blank"></a>
 
 ## Disclaimer
 
@@ -118,13 +117,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/tech-interview-handbook
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
