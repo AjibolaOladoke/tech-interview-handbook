@@ -1,42 +1,27 @@
+# tech-interview-handbook
+
+## What This Is
+
+A practical reference entry for product and engineering: the tech-interview-handbook notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![tech-interview-handbook](https://opengraph.githubassets.com/1/yangshun/tech-interview-handbook)](https://www.swifttechco.com)
-
-<h1 align="center">Tech Interview Handbook</h1>
-
-<div align="center">
-  <a href="https://www.swifttechco.com">
-    <img src="assets/logo.svg" alt="Tech Interview Handbook" width="400" />
-  </a>
-  <br />
-  <h3>
-    <a href="https://www.swifttechco.com">Read on the website</a>
-  </h3>
-  <p>
-  </p>
-</div>
-
----
-
-<a href="https://www.swifttechco.com" target="_blank">
-  <img src="assets/start-reading-button.jpg" alt="Start Reading Tech Interview Handbook" />
-</a>
+[![tech-interview-handbook](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## What is this?
 
-Not everyone has the time to do a few hundred LeetCode questions. Here are _free and curated_ technical interview preparation materials for busy engineers, brought to you by me, the author of [Blind 75](https://www.swifttechco.com). Over 1,000,000 people have benefitted from this handbook!
+Not everyone has the time to do a few hundred LeetCode questions. Here are _free and curated_ technical interview preparation materials for busy engineers, brought to you by me, the author of Blind 75. Over 1,000,000 people have benefitted from this handbook!
 
 Besides the usual algorithm questions, other **awesome** stuff includes:
 
-- [Best practice questions](https://www.swifttechco.com) for coding interviews
-- [Grind 75](https://www.swifttechco.com) - the next evolution of Blind 75, bigger and better
-- [How to prepare](https://www.swifttechco.com) for coding interviews
-- [Coding interview best practices](https://www.swifttechco.com) - Straight-to-the-point Do's and Don'ts
-- [Algorithm cheatsheets and tips](https://www.swifttechco.com) categorized by topic
-- [Step-by-step Software Engineer resume guide](https://www.swifttechco.com) to prepare a FAANG-ready resume
-- [Behavioral questions](https://www.swifttechco.com) asked by the top tech companies
-- [Front end interview preparation](https://www.swifttechco.com)
+- Best practice questions for coding interviews
+- Grind 75 - the next evolution of Blind 75, bigger and better
+- How to prepare for coding interviews
+- Coding interview best practices - Straight-to-the-point Do's and Don'ts
+- Algorithm cheatsheets and tips categorized by topic
+- Step-by-step Software Engineer resume guide to prepare a FAANG-ready resume
+- Behavioral questions asked by the top tech companies
+- Front end interview preparation
 
 Help from you in contributing content would be very much appreciated!
 
@@ -68,25 +53,25 @@ Also, existing resources focus mainly on algorithm questions and lack coverage f
 
 ## Looking for interview courses?
 
-### [AlgoMonster](https://www.swifttechco.com)
+### AlgoMonster
 
-AlgoMonster aims to help you ace the technical interview **in the shortest time possible**. By Google engineers, AlgoMonster uses a data-driven approach to teach you the most useful key question patterns and has contents to help you quickly revise basic data structures and algorithms. Best of all, AlgoMonster is not subscription-based - pay a one-time fee and get **lifetime access**. [**Join today for a 70% discount →**](https://www.swifttechco.com)
+AlgoMonster aims to help you ace the technical interview **in the shortest time possible**. By Google engineers, AlgoMonster uses a data-driven approach to teach you the most useful key question patterns and has contents to help you quickly revise basic data structures and algorithms. Best of all, AlgoMonster is not subscription-based - pay a one-time fee and get **lifetime access**. **Join today for a 70% discount →**
 
-### [Grokking the Coding Interview: Patterns for Coding Questions](https://www.swifttechco.com)
+### Grokking the Coding Interview: Patterns for Coding Questions
 
-This course by Design Gurus expands upon the questions on the recommended practice questions but approaches the practicing from a questions pattern perspective, which is an approach I also agree with for learning and have personally used to get better at coding interviews. The course allows you to practice selected questions in Java, Python, C++, JavaScript and also provides sample solutions in those languages. **Learn and understand patterns, not memorize answers!** [**Get lifetime access today →**](https://www.swifttechco.com)
+This course by Design Gurus expands upon the questions on the recommended practice questions but approaches the practicing from a questions pattern perspective, which is an approach I also agree with for learning and have personally used to get better at coding interviews. The course allows you to practice selected questions in Java, Python, C++, JavaScript and also provides sample solutions in those languages. **Learn and understand patterns, not memorize answers!** **Get lifetime access today →**
 
 ## Looking for Front End content?
 
-Front-end-related content has been moved to a separate website - [Front End Interview Handbook](https://www.swifttechco.com).
+Front-end-related content has been moved to a separate website - Front End Interview Handbook.
 
 ## Looking for System Design content?
 
-We're still working on System Design content. In the meanwhile, check out [ByteByteGo's System Design Interview course](https://www.swifttechco.com) or Design Gurus' [Grokking the System Design Interview course](https://www.swifttechco.com), which in our opinion are among the most useful resources for getting started on system design interviews preparation.
+We're still working on System Design content. In the meanwhile, check out ByteByteGo's System Design Interview course or Design Gurus' Grokking the System Design Interview course, which in our opinion are among the most useful resources for getting started on system design interviews preparation.
 
 ## Contents
 
-A [Docusaurus](https://www.swifttechco.com) website has been created to provide a better reading experience. Check out the website [here](https://www.swifttechco.com)!
+A Docusaurus website has been created to provide a better reading experience. Check out the website here!
 
 ---
 
@@ -98,7 +83,7 @@ A [Docusaurus](https://www.swifttechco.com) website has been created to provide 
 
 ## Related
 
-If you are interested in how data structures are implemented, check out [Lago](https://www.swifttechco.com), a Data Structures and Algorithms library for JavaScript. It is pretty much still WIP but I intend to make it into a library that can be used in production and also a reference resource for revising Data Structures and Algorithms.
+If you are interested in how data structures are implemented, check out Lago, a Data Structures and Algorithms library for JavaScript. It is pretty much still WIP but I intend to make it into a library that can be used in production and also a reference resource for revising Data Structures and Algorithms.
 
 ## Contributing
 
@@ -110,7 +95,7 @@ This project exists thanks to all the people who contributed. [[Contribute](CONT
 
 ### Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://www.swifttechco.com)]
+Thank you to all our backers! 🙏 [Become a backer]
 
 <a href="https://www.swifttechco.com" target="_blank"></a>
 
@@ -129,14 +114,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
